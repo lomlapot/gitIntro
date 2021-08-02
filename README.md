@@ -1,0 +1,3 @@
+gitIntro
+---
+a sample repository
